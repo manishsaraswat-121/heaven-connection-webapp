@@ -1,11 +1,10 @@
 import fs from 'fs';
 import path from 'path';
 import { notFound } from 'next/navigation';
-import { MDXRemote } from 'next-mdx-remote/rsc';
-
 type Props = { params: { slug: string }};
 
-export default function BlogPost({ params }: Props){
+export default async function BlogPost({ params }: Props){
+  const { MDXRemote } = await import('next-mdx-remote/rsc');
   const postPath = path.join(process.cwd(), 'content', 'blog', `${params.slug}.mdx`);
   if(!fs.existsSync(postPath)) return notFound();
   const content = fs.readFileSync(postPath, 'utf-8');
