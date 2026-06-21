@@ -5,7 +5,7 @@ export default function Gallery(){
       <div className="grid md:grid-cols-4 gap-4">
         {Array.from({length:12}).map((_,i)=> (
           <div key={i} className="w-full h-48 bg-gray-100 rounded-lg overflow-hidden">
-            <img src={`/generated/gallery-${(i%8)+1}.jpg`} alt={`Gallery ${i+1}`} className="w-full h-full object-cover" />
+            <img src={`/generated/gallery-${(i%8)+1}.svg`} alt={`Gallery ${i+1}`} className="w-full h-full object-cover" />
           </div>
         ))}
       </div>

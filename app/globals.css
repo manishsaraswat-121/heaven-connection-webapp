@@ -18,5 +18,5 @@ html,body,#__next{
 }
 
 .luxury-hero{
-  background: linear-gradient(180deg, rgba(255,248,238,0.9), rgba(250,247,242,0.9)), url('/generated/hero-pattern.jpg') center/cover no-repeat;
+  background: linear-gradient(180deg, rgba(255,248,238,0.9), rgba(250,247,242,0.9)), url('/generated/hero-pattern.svg') center/cover no-repeat;
 }

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900">
+  <rect width="100%" height="100%" fill="#fff8ee" />
+  <rect x="40" y="40" width="1520" height="820" rx="24" fill="#ffffff" opacity="0.6" />
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="serif" font-size="48" fill="#8b6b3f">Luxury Cake</text>
+</svg>

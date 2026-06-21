@@ -17,7 +17,7 @@ export default function Hero(){
         </div>
         <div className="flex items-center justify-center">
           <motion.div initial={{scale:0.98}} animate={{scale:1}} className="w-full max-w-md rounded-3xl overflow-hidden shadow-xl bg-white">
-            <img src="/generated/hero-cake.jpg" alt="Luxury cake" className="w-full h-72 object-cover" />
+            <img src="/generated/hero-cake.svg" alt="Luxury cake" className="w-full h-72 object-cover" />
           </motion.div>
         </div>
       </div>

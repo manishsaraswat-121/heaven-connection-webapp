@@ -5,7 +5,7 @@ export default function Founder(){
   return (
     <div className="grid md:grid-cols-2 gap-8 items-center">
       <motion.div initial={{x:-20, opacity:0}} animate={{x:0, opacity:1}}>
-        <img src="/generated/founder.jpg" alt="Monika Saraswat" className="w-full rounded-2xl shadow-lg object-cover h-96" />
+        <img src="/generated/founder.svg" alt="Monika Saraswat" className="w-full rounded-2xl shadow-lg object-cover h-96" />
       </motion.div>
       <motion.div initial={{x:20, opacity:0}} animate={{x:0, opacity:1}}>
         <h2 className="font-serif text-3xl">Monika Saraswat — Founder, Mentor & Pastry Artist</h2>
