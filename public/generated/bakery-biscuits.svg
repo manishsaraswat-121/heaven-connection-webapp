@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" fill="none">
+  <!-- Plate -->
+  <ellipse cx="100" cy="135" rx="80" ry="12" fill="#f0ece4"/>
+  <!-- Biscuit 1 (left) -->
+  <ellipse cx="65" cy="120" rx="28" ry="10" fill="#e8c878"/>
+  <ellipse cx="65" cy="117" rx="28" ry="10" fill="#f0d488"/>
+  <!-- Biscuit 2 (center) -->
+  <ellipse cx="100" cy="112" rx="28" ry="10" fill="#e8c878"/>
+  <ellipse cx="100" cy="109" rx="28" ry="10" fill="#f0d488"/>
+  <!-- Biscuit 3 (right) -->
+  <ellipse cx="135" cy="120" rx="28" ry="10" fill="#e8c878"/>
+  <ellipse cx="135" cy="117" rx="28" ry="10" fill="#f0d488"/>
+  <!-- Biscuit 4 (top-center) -->
+  <ellipse cx="83" cy="103" rx="25" ry="9" fill="#e8c878"/>
+  <ellipse cx="83" cy="100" rx="25" ry="9" fill="#f0d488"/>
+  <!-- Biscuit 5 (top-right) -->
+  <ellipse cx="118" cy="103" rx="25" ry="9" fill="#e8c878"/>
+  <ellipse cx="118" cy="100" rx="25" ry="9" fill="#f0d488"/>
+  <!-- Fork marks texture -->
+  <line x1="52" y1="120" x2="78" y2="120" stroke="#d4a050" stroke-width="0.8" stroke-dasharray="2,2"/>
+  <line x1="88" y1="112" x2="112" y2="112" stroke="#d4a050" stroke-width="0.8" stroke-dasharray="2,2"/>
+  <line x1="122" y1="120" x2="148" y2="120" stroke="#d4a050" stroke-width="0.8" stroke-dasharray="2,2"/>
+  <line x1="70" y1="103" x2="96" y2="103" stroke="#d4a050" stroke-width="0.8" stroke-dasharray="2,2"/>
+  <line x1="105" y1="103" x2="131" y2="103" stroke="#d4a050" stroke-width="0.8" stroke-dasharray="2,2"/>
+</svg>

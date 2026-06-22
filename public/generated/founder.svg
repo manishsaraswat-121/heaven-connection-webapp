@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
-  <rect width="100%" height="100%" fill="#fff8ee" />
-  <circle cx="400" cy="260" r="180" fill="#f7eede" stroke="#d4af37" stroke-width="6" />
-  <rect x="180" y="480" width="440" height="220" rx="20" fill="#f4efe7" />
-  <text x="50%" y="72%" dominant-baseline="middle" text-anchor="middle" font-family="serif" font-size="32" fill="#8b6b3f">Founder</text>
-</svg>

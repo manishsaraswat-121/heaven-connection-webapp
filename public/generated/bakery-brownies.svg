@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" fill="none">
+  <!-- Plate -->
+  <ellipse cx="100" cy="142" rx="75" ry="10" fill="#f0ece4"/>
+  <!-- Bottom brownie -->
+  <rect x="55" y="100" width="90" height="40" rx="6" fill="#4a2c0f"/>
+  <rect x="55" y="100" width="90" height="40" rx="6" fill="url(#bgrad)" opacity="0.2"/>
+  <!-- Middle brownie -->
+  <rect x="62" y="72" width="76" height="34" rx="5" fill="#5c3a1a"/>
+  <rect x="62" y="72" width="76" height="34" rx="5" fill="url(#bgrad)" opacity="0.15"/>
+  <!-- Top brownie -->
+  <rect x="70" y="48" width="60" height="30" rx="4" fill="#6e4420"/>
+  <!-- Crumble/frosting top -->
+  <rect x="70" y="48" width="60" height="30" rx="4" fill="url(#bgrad)" opacity="0.1"/>
+  <!-- Walnut pieces -->
+  <path d="M78 56 Q80 52 82 56 Q80 58 78 56Z" fill="#8b6340"/>
+  <path d="M88 60 Q90 56 92 60 Q90 62 88 60Z" fill="#8b6340"/>
+  <path d="M105 54 Q107 50 109 54 Q107 56 105 54Z" fill="#8b6340"/>
+  <path d="M115 58 Q117 54 119 58 Q117 60 115 58Z" fill="#8b6340"/>
+  <!-- Choc chips -->
+  <circle cx="85" cy="50" r="2" fill="#3a1f0a"/>
+  <circle cx="100" cy="52" r="2" fill="#3a1f0a"/>
+  <circle cx="112" cy="50" r="2" fill="#3a1f0a"/>
+  <!-- Cut lines -->
+  <line x1="100" y1="100" x2="100" y2="140" stroke="#3a1f0a" stroke-width="0.8" opacity="0.4"/>
+  <line x1="55" y1="120" x2="145" y2="120" stroke="#3a1f0a" stroke-width="0.8" opacity="0.4"/>
+  <defs>
+    <linearGradient id="bgrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.1"/>
+    </linearGradient>
+  </defs>
+</svg>

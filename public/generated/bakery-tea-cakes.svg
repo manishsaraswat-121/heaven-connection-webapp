@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" fill="none">
+  <!-- Background plate -->
+  <ellipse cx="100" cy="140" rx="75" ry="12" fill="#f0ece4"/>
+  <!-- Tea cake loaf - main body -->
+  <path d="M55 90 L60 55 Q100 40 140 55 L145 90 Q145 105 100 108 Q55 105 55 90Z" fill="#e8d4a0"/>
+  <path d="M55 90 L60 55 Q100 40 140 55 L145 90 Q145 105 100 108 Q55 105 55 90Z" fill="url(#tgrad)" opacity="0.15"/>
+  <!-- Top crust -->
+  <path d="M60 55 Q100 40 140 55" stroke="#c8a86a" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Crack on top -->
+  <path d="M85 50 L90 58 L98 52 L105 60 L112 54" stroke="#d4b878" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- Slice line -->
+  <line x1="85" y1="60" x2="80" y2="105" stroke="#d4b878" stroke-width="1.5" opacity="0.6"/>
+  <!-- Tea cup on right -->
+  <ellipse cx="155" cy="110" rx="15" ry="4" fill="#e8e0d0"/>
+  <path d="M140 106 L140 118 Q140 126 155 126 Q170 126 170 118 L170 106" fill="#f0ece4"/>
+  <path d="M170 108 Q180 108 180 115 Q180 122 170 122" stroke="#e0d8c8" stroke-width="2" fill="none"/>
+  <!-- Steam -->
+  <path d="M150 100 Q152 94 150 88" stroke="#d0c8b8" stroke-width="1" fill="none" opacity="0.5"/>
+  <path d="M158 102 Q160 96 158 90" stroke="#d0c8b8" stroke-width="1" fill="none" opacity="0.5"/>
+  <defs>
+    <linearGradient id="tgrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+</svg>

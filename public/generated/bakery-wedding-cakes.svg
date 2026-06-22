@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" fill="none">
+  <!-- Background plate -->
+  <ellipse cx="100" cy="148" rx="78" ry="8" fill="#f0ece4"/>
+  <!-- Bottom tier -->
+  <rect x="40" y="100" width="120" height="48" rx="6" fill="#fff5f5"/>
+  <rect x="40" y="100" width="120" height="48" rx="6" fill="url(#g3)" opacity="0.3"/>
+  <!-- Lace border bottom -->
+  <ellipse cx="100" cy="148" rx="60" ry="5" fill="#fce4ec"/>
+  <!-- Middle tier -->
+  <rect x="55" y="65" width="90" height="40" rx="5" fill="#ffffff"/>
+  <rect x="55" y="65" width="90" height="40" rx="5" fill="url(#g3)" opacity="0.2"/>
+  <!-- Lace border middle -->
+  <ellipse cx="100" cy="105" rx="45" ry="4" fill="#fce4ec"/>
+  <!-- Top tier -->
+  <rect x="70" y="35" width="60" height="34" rx="4" fill="#fffafa"/>
+  <!-- Pearl dots top tier -->
+  <ellipse cx="100" cy="69" rx="30" ry="3" fill="#fce4ec"/>
+  <!-- Crown/topper -->
+  <path d="M92 35 L100 22 L108 35" stroke="#d4af37" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <circle cx="100" cy="22" r="2" fill="#d4af37"/>
+  <circle cx="92" cy="35" r="1.5" fill="#d4af37"/>
+  <circle cx="108" cy="35" r="1.5" fill="#d4af37"/>
+  <!-- Decorative pearl dots -->
+  <circle cx="60" cy="118" r="1.5" fill="#e8d5e8"/>
+  <circle cx="70" cy="115" r="1.5" fill="#e8d5e8"/>
+  <circle cx="80" cy="118" r="1.5" fill="#e8d5e8"/>
+  <circle cx="90" cy="115" r="1.5" fill="#e8d5e8"/>
+  <circle cx="100" cy="118" r="1.5" fill="#e8d5e8"/>
+  <circle cx="110" cy="115" r="1.5" fill="#e8d5e8"/>
+  <circle cx="120" cy="118" r="1.5" fill="#e8d5e8"/>
+  <circle cx="130" cy="115" r="1.5" fill="#e8d5e8"/>
+  <circle cx="140" cy="118" r="1.5" fill="#e8d5e8"/>
+  <!-- Flowers on middle tier -->
+  <circle cx="72" cy="78" r="4" fill="#f8bbd0"/>
+  <circle cx="72" cy="78" r="2" fill="#f06292"/>
+  <circle cx="128" cy="80" r="4" fill="#f8bbd0"/>
+  <circle cx="128" cy="80" r="2" fill="#f06292"/>
+  <circle cx="100" cy="76" r="3" fill="#f8bbd0"/>
+  <circle cx="100" cy="76" r="1.5" fill="#f06292"/>
+  <defs>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.03"/>
+    </linearGradient>
+  </defs>
+</svg>

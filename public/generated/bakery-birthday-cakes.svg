@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" fill="none">
+  <!-- Background plate -->
+  <ellipse cx="100" cy="140" rx="80" ry="12" fill="#f0ece4"/>
+  <!-- Bottom tier -->
+  <rect x="45" y="85" width="110" height="55" rx="6" fill="#e8b4c8"/>
+  <rect x="45" y="85" width="110" height="55" rx="6" fill="url(#grad1)" opacity="0.3"/>
+  <!-- Frosting border bottom -->
+  <ellipse cx="100" cy="140" rx="55" ry="8" fill="#f0d0e0"/>
+  <!-- Middle tier -->
+  <rect x="60" y="55" width="80" height="35" rx="4" fill="#f0c0d8"/>
+  <!-- Top tier -->
+  <rect x="72" y="30" width="56" height="30" rx="4" fill="#f5d0e0"/>
+  <!-- Candles -->
+  <line x1="90" y1="30" x2="90" y2="10" stroke="#ff7eb3" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="110" y1="30" x2="110" y2="10" stroke="#ff7eb3" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="100" y1="30" x2="100" y2="6" stroke="#ffb3c6" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Flames -->
+  <ellipse cx="90" cy="8" rx="4" ry="6" fill="#ffa502"/>
+  <ellipse cx="90" cy="8" rx="2.5" ry="4" fill="#ffd32a"/>
+  <ellipse cx="110" cy="8" rx="4" ry="6" fill="#ffa502"/>
+  <ellipse cx="110" cy="8" rx="2.5" ry="4" fill="#ffd32a"/>
+  <ellipse cx="100" cy="4" rx="4" ry="6" fill="#ffa502"/>
+  <ellipse cx="100" cy="4" rx="2.5" ry="4" fill="#ffd32a"/>
+  <!-- Decorations -->
+  <circle cx="75" cy="100" r="4" fill="#ff7eb3"/>
+  <circle cx="95" cy="108" r="3" fill="#ff7eb3"/>
+  <circle cx="115" cy="98" r="4" fill="#ff7eb3"/>
+  <circle cx="130" cy="105" r="3" fill="#ff7eb3"/>
+  <circle cx="80" cy="65" r="3" fill="#ff7eb3"/>
+  <circle cx="120" cy="68" r="3" fill="#ff7eb3"/>
+  <!-- Drip details -->
+  <path d="M50 85 Q55 95 60 85" fill="#f5d0e0"/>
+  <path d="M80 85 Q85 92 90 85" fill="#f5d0e0"/>
+  <path d="M120 85 Q125 93 130 85" fill="#f5d0e0"/>
+  <path d="M145 85 Q150 95 155 85" fill="#f5d0e0"/>
+  <defs>
+    <linearGradient id="grad1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+</svg>

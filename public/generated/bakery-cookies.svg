@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" fill="none">
+  <!-- Bottom cookie -->
+  <ellipse cx="100" cy="130" rx="60" ry="20" fill="#d4a06a"/>
+  <ellipse cx="100" cy="126" rx="60" ry="20" fill="#e8b87a"/>
+  <!-- Middle cookie -->
+  <ellipse cx="100" cy="105" rx="52" ry="17" fill="#d4a06a"/>
+  <ellipse cx="100" cy="101" rx="52" ry="17" fill="#e8b87a"/>
+  <!-- Top cookie -->
+  <ellipse cx="100" cy="80" rx="45" ry="15" fill="#d4a06a"/>
+  <ellipse cx="100" cy="76" rx="45" ry="15" fill="#e8b87a"/>
+  <!-- Chocolate chips on top cookie -->
+  <circle cx="82" cy="75" r="3" fill="#4a2c0f"/>
+  <circle cx="95" cy="70" r="2.5" fill="#4a2c0f"/>
+  <circle cx="108" cy="77" r="3" fill="#4a2c0f"/>
+  <circle cx="118" cy="72" r="2.5" fill="#4a2c0f"/>
+  <circle cx="88" cy="82" r="2" fill="#4a2c0f"/>
+  <circle cx="105" cy="82" r="2.5" fill="#4a2c0f"/>
+  <circle cx="75" cy="80" r="2" fill="#4a2c0f"/>
+  <circle cx="112" cy="68" r="2" fill="#4a2c0f"/>
+  <!-- Chocolate chips on middle cookie -->
+  <circle cx="85" cy="100" r="3" fill="#4a2c0f"/>
+  <circle cx="100" cy="96" r="2.5" fill="#4a2c0f"/>
+  <circle cx="115" cy="102" r="3" fill="#4a2c0f"/>
+  <circle cx="92" cy="106" r="2" fill="#4a2c0f"/>
+  <circle cx="108" cy="108" r="2.5" fill="#4a2c0f"/>
+  <!-- Chocolate chips on bottom cookie -->
+  <circle cx="88" cy="124" r="3" fill="#4a2c0f"/>
+  <circle cx="105" cy="120" r="2.5" fill="#4a2c0f"/>
+  <circle cx="115" cy="128" r="2.5" fill="#4a2c0f"/>
+  <circle cx="78" cy="130" r="2" fill="#4a2c0f"/>
+  <!-- Texture dots -->
+  <circle cx="90" cy="78" r="1" fill="#c4945a"/>
+  <circle cx="110" cy="74" r="1" fill="#c4945a"/>
+  <circle cx="95" cy="103" r="1" fill="#c4945a"/>
+  <circle cx="110" cy="98" r="1" fill="#c4945a"/>
+  <circle cx="92" cy="128" r="1" fill="#c4945a"/>
+  <circle cx="108" cy="123" r="1" fill="#c4945a"/>
+</svg>
